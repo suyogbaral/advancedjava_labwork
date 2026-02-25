@@ -61,6 +61,7 @@ public class FrameLab{
         gbc.gridy = 5;
         frame.add(p1, gbc);
 
-        frame.setVisible(true);
+        frame.setVisible(true); //Making frame visible
     }
+
 }
